@@ -45,7 +45,6 @@ public class CrudOperationsApplication implements CommandLineRunner{
           employee2.setEmailId("Aarish9@gmail.com");
           employeeRepository.save(employee2);
 
-          System.out.println("save employees");
            System.out.println(".......save employees................");
           //new tab added today
 		
