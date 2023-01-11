@@ -46,6 +46,7 @@ public class CrudOperationsApplication implements CommandLineRunner{
           employeeRepository.save(employee2);
 
           System.out.println("save employees");
+           System.out.println(".......save employees");
           //new tab added today
 		
 	}
